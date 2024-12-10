@@ -14,3 +14,8 @@ In 2-classes segment mission, spatial branch is good enough to segment the lane,
 As shown in each line, the first picture is the original image, the second picture is the mask picture as well as the input.
 
 The third picture is the spatial branch output without semantic block, the fourth picture is the output with semantic branch.(which performs well on both straight lane and curve lane)
+
+# Acknowledgment
+Attention part refer on [[SeaFormer](https://github.com/fudan-zvg/SeaFormer)\]
+
+Backbone refer on [[SCTNet](https://github.com/xzz777/SCTNet)\]
